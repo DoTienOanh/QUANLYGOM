@@ -49,6 +49,12 @@
     <Compile Include="Class\FuncitonHue.cs" />
     <Compile Include="Class\FunctionHuong.cs" />
     <Compile Include="Class\FunctionOanh.cs" />
+    <Compile Include="Forms\Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dangnhap.Designer.cs">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Danhmuchanghoa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,6 +93,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Dangnhap.resx">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Danhmuckhachhang.resx">
       <DependentUpon>Danhmuckhachhang.cs</DependentUpon>
     </EmbeddedResource>
