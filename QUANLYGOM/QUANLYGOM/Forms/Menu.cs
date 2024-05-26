@@ -19,7 +19,21 @@ namespace QUANLYGOM
 
         private void Menu_Load(object sender, EventArgs e)
         {
+            Class.FunctionOanh.Connect();
 
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Class.FunctionOanh.Disconnect();
+            Application.Exit();
+        }
+
+        private void mnuKhachhang_Click(object sender, EventArgs e)
+        {
+            Forms.Danhmuckhachhang f = new Forms.Danhmuckhachhang();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
         }
     }
 }

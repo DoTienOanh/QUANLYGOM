@@ -1,0 +1,11 @@
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe.config
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.pdb
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.AssemblyReference.cache
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuckhachhang.resources
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Menu.resources
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Properties.Resources.resources
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.GenerateResource.cache
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.CoreCompileInputs.cache
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
+D:\Thực tập chuyên ngành - 15\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
