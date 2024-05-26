@@ -35,5 +35,33 @@ namespace QUANLYGOM
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
+
+        private void mnuHanghoa_Click(object sender, EventArgs e)
+        {
+            Forms.Danhmuchanghoa f = new Forms.Danhmuchanghoa();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
+
+        private void mnuNhanvien_Click(object sender, EventArgs e)
+        {
+            Forms.Danhmucnhanvien f = new Forms.Danhmucnhanvien();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
+
+        private void mnuNhacungcap_Click(object sender, EventArgs e)
+        {
+            Forms.DanhmucNCC f = new Forms.DanhmucNCC();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
+
+        private void mnuTBSX_Click(object sender, EventArgs e)
+        {
+            Forms.DanhmucTBSX f = new Forms.DanhmucTBSX();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }
