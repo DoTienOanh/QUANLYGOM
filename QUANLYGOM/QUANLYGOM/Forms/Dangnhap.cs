@@ -16,5 +16,10 @@ namespace QUANLYGOM.Forms
         {
             InitializeComponent();
         }
+
+        private void formDangnhap_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

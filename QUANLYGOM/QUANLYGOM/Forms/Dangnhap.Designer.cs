@@ -123,6 +123,7 @@
             this.Controls.Add(this.btnDangNhap);
             this.Name = "formDangnhap";
             this.Text = "Dangnhap";
+            this.Load += new System.EventHandler(this.formDangnhap_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
