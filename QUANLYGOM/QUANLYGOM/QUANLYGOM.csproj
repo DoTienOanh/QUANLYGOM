@@ -90,6 +90,12 @@
     <EmbeddedResource Include="Forms\Danhmuckhachhang.resx">
       <DependentUpon>Danhmuckhachhang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Danhmucnhanvien.resx">
+      <DependentUpon>Danhmucnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DanhmucTBSX.resx">
+      <DependentUpon>DanhmucTBSX.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
