@@ -19,13 +19,13 @@ namespace QUANLYGOM
 
         private void Menu_Load(object sender, EventArgs e)
         {
-            Class.FunctionOanh.Connect();
+            Class.FuncitonHue.Connect();
 
         }
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Class.FunctionOanh.Disconnect();
+            Class.FuncitonHue.Disconnect();
             Application.Exit();
         }
 
@@ -45,7 +45,7 @@ namespace QUANLYGOM
 
         private void mnuNhanvien_Click(object sender, EventArgs e)
         {
-            Forms.Danhmucnhanvien f = new Forms.Danhmucnhanvien();
+            Forms.formDanhmucnhanvien f = new Forms.formDanhmucnhanvien();
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
