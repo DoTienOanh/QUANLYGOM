@@ -19,7 +19,8 @@ namespace QUANLYGOM
 
         private void Menu_Load(object sender, EventArgs e)
         {
-            Class.FuncitonHue.Connect();
+            //Class.FuncitonHue.Connect();
+            Class.FunctionHuong.Connect();
 
         }
 

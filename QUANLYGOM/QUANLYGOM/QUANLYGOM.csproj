@@ -96,8 +96,14 @@
     <EmbeddedResource Include="Forms\Dangnhap.resx">
       <DependentUpon>Dangnhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Danhmuchanghoa.resx">
+      <DependentUpon>Danhmuchanghoa.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Danhmuckhachhang.resx">
       <DependentUpon>Danhmuckhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DanhmucNCC.resx">
+      <DependentUpon>DanhmucNCC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Danhmucnhanvien.resx">
       <DependentUpon>Danhmucnhanvien.cs</DependentUpon>
