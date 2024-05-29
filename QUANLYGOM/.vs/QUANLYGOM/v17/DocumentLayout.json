@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|c:\\users\\huong\\documents\\github\\quanlygom\\quanlygom\\quanlygom\\forms\\danhmucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|c:\\users\\huong\\documents\\github\\quanlygom\\quanlygom\\quanlygom\\forms\\timkiemhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\timkiemhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmucncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmucncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\class\\functionhuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\class\\functionhuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|c:\\users\\huong\\documents\\github\\quanlygom\\quanlygom\\quanlygom\\forms\\timkiemhdn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\timkiemhdn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|c:\\users\\huong\\documents\\github\\quanlygom\\quanlygom\\quanlygom\\forms\\timkiemhdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\timkiemhdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|c:\\users\\huong\\documents\\github\\quanlygom\\quanlygom\\quanlygom\\forms\\timkiemhdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\timkiemhdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmuchanghoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmuchanghoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmucncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmucncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmucncc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmucncc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmucncc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmucncc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -53,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmuctbsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmuctbsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmuctbsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|solutionrelative:quanlygom\\forms\\danhmuctbsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E81994-FD38-4D80-A5E0-8C0702ED3311}|QUANLYGOM\\QUANLYGOM.csproj|C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\quanlygom\\forms\\danhmucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -78,66 +66,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Danhmuchanghoa.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.Designer.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuchanghoa.Designer.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.Designer.cs",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Danhmuchanghoa.Designer.cs",
-              "ViewState": "AQIAAAgBAAAAAAAAAAAiwCkBAAAzAAAA",
+              "DocumentIndex": 0,
+              "Title": "TimkiemHDB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDB.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\TimkiemHDB.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDB.cs [Design]",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\TimkiemHDB.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:40:45.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Danhmuchanghoa.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "ViewState": "AQIAAOYAAAAAAAAAAAAqwPsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:40:15.238Z"
+              "WhenOpened": "2024-05-29T15:55:31.051Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Danhmuchanghoa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs [Design]",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs [Design]",
+              "Title": "TimkiemHDN.cs",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAwIYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:40:11.38Z"
+              "WhenOpened": "2024-05-29T13:52:13.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DanhmucNCC.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucNCC.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\DanhmucNCC.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucNCC.cs",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\DanhmucNCC.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAiwDEAAAAMAAAA",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Menu.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\Menu.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:32:21.033Z"
+              "WhenOpened": "2024-05-27T10:28:26.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Danhmucnhanvien.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "DocumentIndex": 3,
+              "Title": "TimkiemHDN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\TimkiemHDN.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.cs [Design]",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\TimkiemHDN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:28:26.628Z",
+              "WhenOpened": "2024-05-29T13:47:01.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimkiemHDN.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.Designer.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\TimkiemHDN.Designer.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\TimkiemHDN.Designer.cs",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\TimkiemHDN.Designer.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAkwMUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:49:27.515Z",
               "EditorCaption": ""
             },
             {
@@ -149,23 +140,25 @@
               "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucNCC.cs [Design]",
               "RelativeToolTip": "QUANLYGOM\\Forms\\DanhmucNCC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:28:26.636Z"
+              "WhenOpened": "2024-05-27T10:28:26.636Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FunctionHuong.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Class\\FunctionHuong.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Class\\FunctionHuong.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Class\\FunctionHuong.cs",
-              "RelativeToolTip": "QUANLYGOM\\Class\\FunctionHuong.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAuwG8AAAABAAAA",
+              "DocumentIndex": 5,
+              "Title": "Danhmuchanghoa.cs",
+              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
+              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
+              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
+              "RelativeToolTip": "QUANLYGOM\\Forms\\Danhmuchanghoa.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAqwPsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:33:20.932Z"
+              "WhenOpened": "2024-05-27T10:40:15.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Dangnhap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Dangnhap.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Dangnhap.cs",
@@ -184,34 +177,12 @@
               "RelativeToolTip": "QUANLYGOM\\Forms\\DanhmucNCC.Designer.cs",
               "ViewState": "AQIAAN4AAAAAAAAAAAAQwPMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:28:26.634Z"
+              "WhenOpened": "2024-05-27T10:28:26.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Menu.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs [Design]",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:28:26.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Menu.cs",
-              "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Menu.cs",
-              "RelativeToolTip": "QUANLYGOM\\Forms\\Menu.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:28:26.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Dangnhap.cs",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Dangnhap.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Dangnhap.cs",
@@ -223,29 +194,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DanhmucTBSX.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucTBSX.cs",
-              "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\DanhmucTBSX.cs",
-              "ToolTip": "E:\\TTCN\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucTBSX.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-05-27T10:28:26.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "DanhmucTBSX.cs",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucTBSX.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\DanhmucTBSX.cs",
               "ToolTip": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\DanhmucTBSX.cs",
               "RelativeToolTip": "QUANLYGOM\\Forms\\DanhmucTBSX.cs",
               "ViewState": "AQIAAOYAAAAAAAAAAAD4v/MAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-05-27T10:28:26.624Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:28:26.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Danhmucnhanvien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmucnhanvien.cs",
@@ -256,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Danhmuckhachhang.cs",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuckhachhang.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuckhachhang.cs",
@@ -268,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Danhmuckhachhang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HUONG\\Documents\\GitHub\\QUANLYGOM\\QUANLYGOM\\QUANLYGOM\\Forms\\Danhmuckhachhang.cs",
               "RelativeDocumentMoniker": "QUANLYGOM\\Forms\\Danhmuckhachhang.cs",

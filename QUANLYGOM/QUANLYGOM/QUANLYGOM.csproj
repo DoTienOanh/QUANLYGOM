@@ -91,6 +91,24 @@
     <Compile Include="Forms\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\TimkiemchitraTBSX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TimkiemchitraTBSX.Designer.cs">
+      <DependentUpon>TimkiemchitraTBSX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TimkiemHDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TimkiemHDB.Designer.cs">
+      <DependentUpon>TimkiemHDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TimkiemHDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TimkiemHDN.Designer.cs">
+      <DependentUpon>TimkiemHDN.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\Dangnhap.resx">
@@ -113,6 +131,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TimkiemHDN.resx">
+      <DependentUpon>TimkiemHDN.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

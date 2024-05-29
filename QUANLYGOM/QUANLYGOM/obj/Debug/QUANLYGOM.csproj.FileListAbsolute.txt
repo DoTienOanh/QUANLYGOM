@@ -38,3 +38,4 @@ C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGO
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuchanghoa.resources
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDN.resources

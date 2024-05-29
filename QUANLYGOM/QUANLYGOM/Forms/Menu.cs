@@ -64,5 +64,12 @@ namespace QUANLYGOM
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
+
+        private void mnuTKHDN_Click(object sender, EventArgs e)
+        {
+            Forms.TimkiemHDN f = new Forms.TimkiemHDN();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }
