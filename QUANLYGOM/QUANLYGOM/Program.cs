@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QUANLYGOM.Forms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace QUANLYGOM
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+            Application.Run(new formDangnhap());
         }
     }
 }

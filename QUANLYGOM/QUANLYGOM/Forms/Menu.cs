@@ -10,17 +10,17 @@ using System.Windows.Forms;
 
 namespace QUANLYGOM
 {
-    public partial class Menu : Form
+    public partial class formMenu : Form
     {
-        public Menu()
+        public formMenu()
         {
             InitializeComponent();
         }
 
         private void Menu_Load(object sender, EventArgs e)
         {
-            //Class.FuncitonHue.Connect();
-            Class.FunctionHuong.Connect();
+            Class.FuncitonHue.Connect();
+            //Class.FunctionHuong.Connect();
 
         }
 
