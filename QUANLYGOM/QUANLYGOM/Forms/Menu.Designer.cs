@@ -86,35 +86,55 @@
             // mnuHanghoa
             // 
             this.mnuHanghoa.Name = "mnuHanghoa";
+<<<<<<< Updated upstream
             this.mnuHanghoa.Size = new System.Drawing.Size(270, 34);
+=======
+            this.mnuHanghoa.Size = new System.Drawing.Size(242, 34);
+>>>>>>> Stashed changes
             this.mnuHanghoa.Text = "Hàng hóa";
             this.mnuHanghoa.Click += new System.EventHandler(this.mnuHanghoa_Click);
             // 
             // mnuNhanvien
             // 
             this.mnuNhanvien.Name = "mnuNhanvien";
+<<<<<<< Updated upstream
             this.mnuNhanvien.Size = new System.Drawing.Size(270, 34);
+=======
+            this.mnuNhanvien.Size = new System.Drawing.Size(242, 34);
+>>>>>>> Stashed changes
             this.mnuNhanvien.Text = "Nhân viên";
             this.mnuNhanvien.Click += new System.EventHandler(this.mnuNhanvien_Click);
             // 
             // mnuKhachhang
             // 
             this.mnuKhachhang.Name = "mnuKhachhang";
+<<<<<<< Updated upstream
             this.mnuKhachhang.Size = new System.Drawing.Size(270, 34);
+=======
+            this.mnuKhachhang.Size = new System.Drawing.Size(242, 34);
+>>>>>>> Stashed changes
             this.mnuKhachhang.Text = "Khách hàng";
             this.mnuKhachhang.Click += new System.EventHandler(this.mnuKhachhang_Click);
             // 
             // mnuNhacungcap
             // 
             this.mnuNhacungcap.Name = "mnuNhacungcap";
+<<<<<<< Updated upstream
             this.mnuNhacungcap.Size = new System.Drawing.Size(270, 34);
+=======
+            this.mnuNhacungcap.Size = new System.Drawing.Size(242, 34);
+>>>>>>> Stashed changes
             this.mnuNhacungcap.Text = "Nhà cung cấp";
             this.mnuNhacungcap.Click += new System.EventHandler(this.mnuNhacungcap_Click);
             // 
             // mnuTBSX
             // 
             this.mnuTBSX.Name = "mnuTBSX";
+<<<<<<< Updated upstream
             this.mnuTBSX.Size = new System.Drawing.Size(270, 34);
+=======
+            this.mnuTBSX.Size = new System.Drawing.Size(242, 34);
+>>>>>>> Stashed changes
             this.mnuTBSX.Text = "Thiết bị sản xuất";
             this.mnuTBSX.Click += new System.EventHandler(this.mnuTBSX_Click);
             // 
@@ -211,12 +231,14 @@
             this.mnuTKHDB.Name = "mnuTKHDB";
             this.mnuTKHDB.Size = new System.Drawing.Size(282, 34);
             this.mnuTKHDB.Text = "Hóa đơn bán";
+            this.mnuTKHDB.Click += new System.EventHandler(this.mnuTKHDB_Click);
             // 
             // mnuTKHDTBSX
             // 
             this.mnuTKHDTBSX.Name = "mnuTKHDTBSX";
             this.mnuTKHDTBSX.Size = new System.Drawing.Size(282, 34);
             this.mnuTKHDTBSX.Text = "Hóa đơn chi trả TBSX";
+            this.mnuTKHDTBSX.Click += new System.EventHandler(this.mnuTKHDTBSX_Click);
             // 
             // mnuThoat
             // 
@@ -232,7 +254,16 @@
             this.ClientSize = new System.Drawing.Size(900, 563);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+<<<<<<< Updated upstream
             this.Name = "formMenu";
+=======
+<<<<<<< HEAD
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "Menu";
+=======
+            this.Name = "formMenu";
+>>>>>>> a93fa8653e1cc16e2e37a597fd844a14e8fde307
+>>>>>>> Stashed changes
             this.Text = "Menu";
             this.Load += new System.EventHandler(this.Menu_Load);
             this.menuStrip1.ResumeLayout(false);

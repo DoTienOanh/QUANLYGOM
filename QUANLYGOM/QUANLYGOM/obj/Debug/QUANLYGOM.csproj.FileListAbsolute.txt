@@ -38,6 +38,13 @@ C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGO
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuchanghoa.resources
 C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDN.resources
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDB.resources
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemchitraTBSX.resources
+=======
+>>>>>>> Stashed changes
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe.config
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.pdb
@@ -55,9 +62,13 @@ E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.CoreCompileInp
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
 E:\TTCN2\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.formMenu.resources
+<<<<<<< Updated upstream
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formDangnhap.resources
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuchanghoa.resources
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.DanhmucNCC.resources
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.formMenu.resources
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDN.resources
 E:\TTCN\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formHDnhapNVL.resources
+=======
+>>>>>>> a93fa8653e1cc16e2e37a597fd844a14e8fde307
+>>>>>>> Stashed changes

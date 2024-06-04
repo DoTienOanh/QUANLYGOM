@@ -72,9 +72,22 @@ namespace QUANLYGOM
             f.Show();
         }
 
+<<<<<<< Updated upstream
         private void mnuHDN_Click(object sender, EventArgs e)
         {
             Forms.formHDnhapNVL f = new Forms.formHDnhapNVL();
+=======
+        private void mnuTKHDB_Click(object sender, EventArgs e)
+        {
+            Forms.TimkiemHDB f = new Forms.TimkiemHDB();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
+
+        private void mnuTKHDTBSX_Click(object sender, EventArgs e)
+        {
+            Forms.TimkiemchitraTBSX f = new Forms.TimkiemchitraTBSX();
+>>>>>>> Stashed changes
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }

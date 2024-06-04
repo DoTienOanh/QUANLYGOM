@@ -87,7 +87,7 @@ namespace QUANLYGOM.Forms
         }
         private void Load_DataGridView()
         {
-            string sql = @"
+           /* string sql = @"
         SELECT hd.mahdn, nv.tennhanvien, hd.ngaynhap, ncc.tenncc, 
                ISNULL(SUM(ct.dongia * ct.soluongthucnhap), 0) AS tongtien
         FROM tblHoadonnhapNVL hd
@@ -95,7 +95,7 @@ namespace QUANLYGOM.Forms
         LEFT JOIN tblNhaCungCap ncc ON hd.mancc = ncc.mancc
         LEFT JOIN tblChitietnhapNVL ct ON hd.mahdn = ct.mahdn
         GROUP BY hd.mahdn, nv.tennhanvien, hd.ngaynhap, ncc.tenncc";
-            tblTKHDN = Class.FunctionHuong.GetDataToTable(sql);
+            tblTKHDN = Class.FunctionHuong.GetDataToTable(sql);*/
 
             DataGridView.DataSource = tblTKHDN;
             DataGridView.Columns[0].HeaderText = "Mã hóa đơn";
@@ -130,8 +130,6 @@ namespace QUANLYGOM.Forms
             else
                 e.Handled = true;
         }
-
-
         
         //CODE KÍCH ĐÚP ĐỂ HIỂN THỊ CHI TIẾT
     }

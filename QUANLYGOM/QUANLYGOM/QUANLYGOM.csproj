@@ -145,6 +145,12 @@
     <EmbeddedResource Include="Forms\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TimkiemchitraTBSX.resx">
+      <DependentUpon>TimkiemchitraTBSX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TimkiemHDB.resx">
+      <DependentUpon>TimkiemHDB.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\TimkiemHDN.resx">
       <DependentUpon>TimkiemHDN.cs</DependentUpon>
     </EmbeddedResource>
