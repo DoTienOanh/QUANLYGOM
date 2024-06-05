@@ -85,5 +85,12 @@ namespace QUANLYGOM
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
+
+        private void mnuHDTBSX_Click(object sender, EventArgs e)
+        {
+            Forms.formHoadonchitraTBSX f = new Forms.formHoadonchitraTBSX();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }

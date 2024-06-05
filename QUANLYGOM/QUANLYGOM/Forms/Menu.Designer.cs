@@ -147,6 +147,7 @@
             this.mnuHDTBSX.Name = "mnuHDTBSX";
             this.mnuHDTBSX.Size = new System.Drawing.Size(282, 34);
             this.mnuHDTBSX.Text = "Hóa đơn chi trả TBSX";
+            this.mnuHDTBSX.Click += new System.EventHandler(this.mnuHDTBSX_Click);
             // 
             // mnuBaocao
             // 
