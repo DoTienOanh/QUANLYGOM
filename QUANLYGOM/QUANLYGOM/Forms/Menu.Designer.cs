@@ -86,35 +86,35 @@
             // mnuHanghoa
             // 
             this.mnuHanghoa.Name = "mnuHanghoa";
-            this.mnuHanghoa.Size = new System.Drawing.Size(270, 34);
+            this.mnuHanghoa.Size = new System.Drawing.Size(242, 34);
             this.mnuHanghoa.Text = "Hàng hóa";
             this.mnuHanghoa.Click += new System.EventHandler(this.mnuHanghoa_Click);
             // 
             // mnuNhanvien
             // 
             this.mnuNhanvien.Name = "mnuNhanvien";
-            this.mnuNhanvien.Size = new System.Drawing.Size(270, 34);
+            this.mnuNhanvien.Size = new System.Drawing.Size(242, 34);
             this.mnuNhanvien.Text = "Nhân viên";
             this.mnuNhanvien.Click += new System.EventHandler(this.mnuNhanvien_Click);
             // 
             // mnuKhachhang
             // 
             this.mnuKhachhang.Name = "mnuKhachhang";
-            this.mnuKhachhang.Size = new System.Drawing.Size(270, 34);
+            this.mnuKhachhang.Size = new System.Drawing.Size(242, 34);
             this.mnuKhachhang.Text = "Khách hàng";
             this.mnuKhachhang.Click += new System.EventHandler(this.mnuKhachhang_Click);
             // 
             // mnuNhacungcap
             // 
             this.mnuNhacungcap.Name = "mnuNhacungcap";
-            this.mnuNhacungcap.Size = new System.Drawing.Size(270, 34);
+            this.mnuNhacungcap.Size = new System.Drawing.Size(242, 34);
             this.mnuNhacungcap.Text = "Nhà cung cấp";
             this.mnuNhacungcap.Click += new System.EventHandler(this.mnuNhacungcap_Click);
             // 
             // mnuTBSX
             // 
             this.mnuTBSX.Name = "mnuTBSX";
-            this.mnuTBSX.Size = new System.Drawing.Size(270, 34);
+            this.mnuTBSX.Size = new System.Drawing.Size(242, 34);
             this.mnuTBSX.Text = "Thiết bị sản xuất";
             this.mnuTBSX.Click += new System.EventHandler(this.mnuTBSX_Click);
             // 
@@ -140,6 +140,7 @@
             this.mnuHDB.Name = "mnuHDB";
             this.mnuHDB.Size = new System.Drawing.Size(282, 34);
             this.mnuHDB.Text = "Hóa đơn bán";
+            this.mnuHDB.Click += new System.EventHandler(this.mnuHDB_Click);
             // 
             // mnuHDTBSX
             // 

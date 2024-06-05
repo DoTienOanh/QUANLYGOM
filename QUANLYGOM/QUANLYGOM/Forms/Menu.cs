@@ -78,5 +78,12 @@ namespace QUANLYGOM
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
+
+        private void mnuHDB_Click(object sender, EventArgs e)
+        {
+            Forms.formHoadonban f = new Forms.formHoadonban();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }
