@@ -229,10 +229,10 @@
             // labelHDN
             // 
             this.labelHDN.AutoSize = true;
-            this.labelHDN.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelHDN.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelHDN.Location = new System.Drawing.Point(202, 44);
             this.labelHDN.Name = "labelHDN";
-            this.labelHDN.Size = new System.Drawing.Size(554, 31);
+            this.labelHDN.Size = new System.Drawing.Size(524, 30);
             this.labelHDN.TabIndex = 249;
             this.labelHDN.Text = "HÓA ĐƠN CHI TRẢ THIẾT BỊ SẢN XUẤT";
             // 

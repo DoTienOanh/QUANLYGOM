@@ -157,6 +157,7 @@
             this.ClientSize = new System.Drawing.Size(1056, 694);
             this.Controls.Add(this.pnlDangNhap);
             this.Name = "formDangnhap";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dangnhap";
             this.pnlDangNhap.ResumeLayout(false);
             this.pnlDangNhap.PerformLayout();
