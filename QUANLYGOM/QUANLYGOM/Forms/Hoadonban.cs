@@ -34,7 +34,6 @@ namespace QUANLYGOM.Forms
             textDongia.ReadOnly = true;
             textThanhtien.ReadOnly = true;
             textTongtien.ReadOnly = true;
-            textGiamgia.Text = "0";
             textTongtien.Text = "0";
             FuncitonHue.fillcombo("select Makhachhang, Tenkhachhang from tblKhachhang", comboMaKH, "Makhachhang", "Tenkhachhang");
             comboMaKH.SelectedIndex = -1;
@@ -57,7 +56,7 @@ namespace QUANLYGOM.Forms
         private void Load_DataGridViewChitiet()
         {
             string sql;
-            sql = "select a.Mahang, b.Tenhang, a.Soluong, b.Dongia, a.Khuyenmai, a.Thanhtien " +
+            sql = "select a.Mahang, b.Tenhang, a.Soluong, b.Dongia, a.Thanhtien " +
                 "from tblChitietHDB as a, tblHanghoa as b " +
                 "where a.MaHDB = N'" + textMaHD.Text + "' and a.Mahang=b.Mahang";
             tblHDB = FuncitonHue.getdatatotable(sql);
@@ -66,14 +65,12 @@ namespace QUANLYGOM.Forms
             dataGridViewHDB.Columns[1].HeaderText = "Tên hàng";
             dataGridViewHDB.Columns[2].HeaderText = "Số lượng";
             dataGridViewHDB.Columns[3].HeaderText = "Đơn giá";
-            dataGridViewHDB.Columns[4].HeaderText = "Giảm giá %";
-            dataGridViewHDB.Columns[5].HeaderText = "Thành tiền";
+            dataGridViewHDB.Columns[4].HeaderText = "Thành tiền";
             dataGridViewHDB.Columns[0].Width = 80;
             dataGridViewHDB.Columns[1].Width = 100;
             dataGridViewHDB.Columns[2].Width = 80;
             dataGridViewHDB.Columns[3].Width = 90;
             dataGridViewHDB.Columns[4].Width = 90;
-            dataGridViewHDB.Columns[5].Width = 90;
             dataGridViewHDB.AllowUserToAddRows = false;
             dataGridViewHDB.EditMode = DataGridViewEditMode.EditProgrammatically;
         }
@@ -118,7 +115,6 @@ namespace QUANLYGOM.Forms
             labelBangchu.Text = "Bằng chữ: ";
             comboMahang.Text = "";
             textSoluong.Text = "";
-            textGiamgia.Text = "0";
             textThanhtien.Text = "0";
         }
 
@@ -168,12 +164,6 @@ namespace QUANLYGOM.Forms
                 textSoluong.Focus();
                 return;
             }
-            if (textGiamgia.Text.Trim().Length == 0)
-            {
-                MessageBox.Show("Bạn phải nhập giảm giá", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                textGiamgia.Focus();
-                return;
-            }
             sql = "select Mahang from tblChiTietHDB where Mahang=N'" + comboMahang.SelectedValue + "' and MaHDB = N'" + textMaHD.Text.Trim() + "'";
             if (FuncitonHue.checkey(sql))
             {
@@ -191,7 +181,7 @@ namespace QUANLYGOM.Forms
                 textSoluong.Focus();
                 return;
             }
-            sql = "insert into tblChitietHDB(MaHDB,Mahang,Soluong,Khuyenmai,Thanhtien) values(N'" + textMaHD.Text.Trim() + "', N'" + comboMahang.SelectedValue + "'," + textSoluong.Text + "," + textGiamgia.Text + "," + textThanhtien.Text + ")";
+            sql = "insert into tblChitietHDB(MaHDB,Mahang,Soluong,Thanhtien) values(N'" + textMaHD.Text.Trim() + "', N'" + comboMahang.SelectedValue + "'," + textSoluong.Text + "," + textThanhtien.Text + ")";
             FuncitonHue.runsql(sql);
             Load_DataGridViewChitiet();
             // Cập nhật lại số lượng của mặt hàng vào bảng tblHang
@@ -216,7 +206,6 @@ namespace QUANLYGOM.Forms
             textTenhang.Text = "";
             textSoluong.Text = "";
             textDongia.Text = "";
-            textGiamgia.Text = "0";
             textThanhtien.Text = "0";
         }
 
@@ -342,40 +331,16 @@ namespace QUANLYGOM.Forms
         private void textSoluong_TextChanged(object sender, EventArgs e)
         {
             //Khi thay doi So luong, Giam gia thi Thanh tien tu dong cap nhat lai gia tri
-            double tt, sl, dg, gg;
+            double tt, sl, dg;
             if (textSoluong.Text == "")
                 sl = 0;
             else
                 sl = Convert.ToInt32(textSoluong.Text);
-            if (textGiamgia.Text == "")
-                gg = 0;
-            else
-                gg = Convert.ToDouble(textGiamgia.Text);
             if (textDongia.Text == "")
                 dg = 0;
             else
                 dg = Convert.ToDouble(textDongia.Text);
-            tt = sl * dg - sl * dg * gg / 100;
-            textThanhtien.Text = tt.ToString();
-        }
-
-        private void textGiamgia_TextChanged(object sender, EventArgs e)
-        {
-            //Khi thay doi So luong, Giam gia thi Thanh tien tu dong cap nhat lai gia tri
-            double tt, sl, dg, gg;
-            if (textSoluong.Text == "")
-                sl = 0;
-            else
-                sl = Convert.ToInt32(textSoluong.Text);
-            if (textGiamgia.Text == "")
-                gg = 0;
-            else
-                gg = Convert.ToDouble(textGiamgia.Text);
-            if (textDongia.Text == "")
-                dg = 0;
-            else
-                dg = Convert.ToDouble(textDongia.Text);
-            tt = sl * dg - sl * dg * gg / 100;
+            tt = sl * dg;
             textThanhtien.Text = tt.ToString();
         }
 
@@ -436,7 +401,7 @@ namespace QUANLYGOM.Forms
             exRange.Range["C8:E8"].MergeCells = true;
             exRange.Range["C8:E8"].Value = tblThongtinHD.Rows[0][5].ToString();
             //Lấy thông tin các mặt hàng
-            sql = "select b.Tenhang, a.Soluong, b.Dongia, a.Khuyenmai, a.Thanhtien " +
+            sql = "select b.Tenhang, a.Soluong, b.Dongia, a.Thanhtien " +
                   "from tblChitietHDB as a , tblHanghoa as b " +
                   "where a.MaHDB = N'" + textMaHD.Text + "' and a.Mahang = b.Mahang";
             tblThongtinHang = FuncitonHue.getdatatotable(sql);
@@ -448,8 +413,7 @@ namespace QUANLYGOM.Forms
             exRange.Range["B10:B10"].Value = "Tên hàng";
             exRange.Range["C10:C10"].Value = "Số lượng";
             exRange.Range["D10:D10"].Value = "Đơn giá";
-            exRange.Range["E10:E10"].Value = "Giảm giá";
-            exRange.Range["F10:F10"].Value = "Thành tiền";
+            exRange.Range["E10:E10"].Value = "Thành tiền";
             for (hang = 0; hang <= tblThongtinHang.Rows.Count - 1; hang++)
             {
                 //Điền số thứ tự vào cột 1 từ dòng 11
@@ -465,12 +429,12 @@ namespace QUANLYGOM.Forms
             exRange.Font.Bold = true;
             exRange.Value2 = tblThongtinHD.Rows[0][2].ToString();
             exRange = exSheet.Cells[1][hang + 14]; //Ô A1 
-            exRange.Range["A1:F1"].MergeCells = true;
-            exRange.Range["A1:F1"].Font.Bold = true;
-            exRange.Range["A1:F1"].Font.Italic = true;
-            exRange.Range["A1:F1"].HorizontalAlignment = COMExcel.XlHAlign.xlHAlignRight;
-            exRange.Range["A1:F1"].Value = "Bằng chữ: " + FuncitonHue.ChuyenSoSangChu(tblThongtinHD.Rows[0][2].ToString());
-            exRange = exSheet.Cells[4][hang + 16]; //Ô A1 
+            exRange.Range["A1:E1"].MergeCells = true;
+            exRange.Range["A1:E1"].Font.Bold = true;
+            exRange.Range["A1:E1"].Font.Italic = true;
+            exRange.Range["A1:E1"].HorizontalAlignment = COMExcel.XlHAlign.xlHAlignRight;
+            exRange.Range["A1:E1"].Value = "Bằng chữ: " + FuncitonHue.ChuyenSoSangChu(tblThongtinHD.Rows[0][2].ToString());
+            exRange = exSheet.Cells[3][hang + 16]; //Ô A1 
             exRange.Range["A1:C1"].MergeCells = true;
             exRange.Range["A1:C1"].Font.Italic = true;
             exRange.Range["A1:C1"].HorizontalAlignment = COMExcel.XlHAlign.xlHAlignCenter;

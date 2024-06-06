@@ -62,9 +62,7 @@
             this.gbxThongTinMatHang = new System.Windows.Forms.GroupBox();
             this.textTenhang = new System.Windows.Forms.TextBox();
             this.labelBangchu = new System.Windows.Forms.Label();
-            this.labelGiamgia = new System.Windows.Forms.Label();
             this.labelChuthich = new System.Windows.Forms.Label();
-            this.textGiamgia = new System.Windows.Forms.TextBox();
             this.dataGridViewHDB = new System.Windows.Forms.DataGridView();
             this.labelThanhtien = new System.Windows.Forms.Label();
             this.textSoluong = new System.Windows.Forms.TextBox();
@@ -423,9 +421,7 @@
             this.gbxThongTinMatHang.Controls.Add(this.labelTongtien);
             this.gbxThongTinMatHang.Controls.Add(this.textTenhang);
             this.gbxThongTinMatHang.Controls.Add(this.labelBangchu);
-            this.gbxThongTinMatHang.Controls.Add(this.labelGiamgia);
             this.gbxThongTinMatHang.Controls.Add(this.labelChuthich);
-            this.gbxThongTinMatHang.Controls.Add(this.textGiamgia);
             this.gbxThongTinMatHang.Controls.Add(this.dataGridViewHDB);
             this.gbxThongTinMatHang.Controls.Add(this.labelThanhtien);
             this.gbxThongTinMatHang.Controls.Add(this.textSoluong);
@@ -459,16 +455,6 @@
             this.labelBangchu.TabIndex = 187;
             this.labelBangchu.Text = "Bằng chữ:";
             // 
-            // labelGiamgia
-            // 
-            this.labelGiamgia.AutoSize = true;
-            this.labelGiamgia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelGiamgia.Location = new System.Drawing.Point(37, 162);
-            this.labelGiamgia.Name = "labelGiamgia";
-            this.labelGiamgia.Size = new System.Drawing.Size(114, 22);
-            this.labelGiamgia.TabIndex = 175;
-            this.labelGiamgia.Text = "Giảm giá (%)";
-            // 
             // labelChuthich
             // 
             this.labelChuthich.AutoSize = true;
@@ -478,17 +464,6 @@
             this.labelChuthich.Size = new System.Drawing.Size(218, 22);
             this.labelChuthich.TabIndex = 186;
             this.labelChuthich.Text = "Kích đúp một hàng để xóa";
-            // 
-            // textGiamgia
-            // 
-            this.textGiamgia.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textGiamgia.Location = new System.Drawing.Point(174, 159);
-            this.textGiamgia.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textGiamgia.Name = "textGiamgia";
-            this.textGiamgia.Size = new System.Drawing.Size(220, 25);
-            this.textGiamgia.TabIndex = 181;
-            this.textGiamgia.TextChanged += new System.EventHandler(this.textGiamgia_TextChanged);
-            this.textGiamgia.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textGiamgia_KeyPress);
             // 
             // dataGridViewHDB
             // 
@@ -605,9 +580,7 @@
         private System.Windows.Forms.GroupBox gbxThongTinMatHang;
         private System.Windows.Forms.TextBox textTenhang;
         private System.Windows.Forms.Label labelBangchu;
-        private System.Windows.Forms.Label labelGiamgia;
         private System.Windows.Forms.Label labelChuthich;
-        private System.Windows.Forms.TextBox textGiamgia;
         private System.Windows.Forms.DataGridView dataGridViewHDB;
         private System.Windows.Forms.Label labelThanhtien;
         private System.Windows.Forms.TextBox textSoluong;
