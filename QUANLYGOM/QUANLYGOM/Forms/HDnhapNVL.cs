@@ -420,7 +420,7 @@ namespace QUANLYGOM.Forms
             exRange.Range["A2:C2"].MergeCells = true;
             exRange.Range["A2:C2"].Font.Italic = true;
             exRange.Range["A2:C2"].HorizontalAlignment = COMExcel.XlHAlign.xlHAlignCenter;
-            exRange.Range["A2:C2"].Value = "Nhân viên nhập NVL";
+            exRange.Range["A2:C2"].Value = "Nhân viên lập hóa đơn";
             exRange.Range["A6:C6"].MergeCells = true;
             exRange.Range["A6:C6"].Font.Italic = true;
             exRange.Range["A6:C6"].HorizontalAlignment = COMExcel.XlHAlign.xlHAlignCenter;
@@ -494,6 +494,34 @@ namespace QUANLYGOM.Forms
         private void buttonDong_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void buttonHuyHD_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Bạn có chắc chắn muốn xóa không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                string[] MaNVL = new string[20];
+                string sql;
+                int n = 0;
+                int i;
+                sql = "select MaNVL from tblChitietnhapNVL where MaHDN = N'" + textMaHDNNVL.Text + "'";
+                SqlCommand cmd = new SqlCommand(sql, FuncitonHue.Conn);
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    MaNVL[n] = reader.GetString(0).ToString();
+                    n = n + 1;
+                }
+                reader.Close();
+                for (i = 0; i <= n - 1; i++)
+                    DelHang(textMaHDNNVL.Text, MaNVL[i]);
+                sql = "delete tblHoadonnhapNVL where MaHDN = N'" + textMaHDNNVL.Text + "'";
+                FuncitonHue.RunSQL_Del(sql);
+                ResetValues();
+                Load_DataGridViewChitiet();
+                buttonHuyHD.Enabled = false;
+                buttonInHD.Enabled = false;
+            }
         }
     }
 }
