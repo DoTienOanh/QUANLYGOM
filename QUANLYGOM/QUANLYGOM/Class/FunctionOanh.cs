@@ -17,8 +17,9 @@ namespace QUANLYGOM.Class
 
         public static void Connect()
         {
-            connString = "Data Source=DESKTOP-E1T3VV1\\HUEKIM;Initial Catalog=Quanlygom;Integrated Security=True;Encrypt=False";
+            //connString = "Data Source=DESKTOP-E1T3VV1\\HUEKIM;Initial Catalog=Quanlygom;Integrated Security=True;Encrypt=False";
             //connString = "Data Source=ADMIN\\MSSQLSERVER03;Initial Catalog=Quanlygom1;Integrated Security=True";
+            connString = "Data Source=TIENOANH\\SQLEXPRESS;Initial Catalog=Quanlygom;Integrated Security=True;Encrypt=False"; 
             Conn = new SqlConnection();         		
             Conn.ConnectionString = connString; 		
             Conn.Open();                        		

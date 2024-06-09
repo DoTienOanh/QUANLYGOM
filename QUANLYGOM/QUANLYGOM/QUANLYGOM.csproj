@@ -53,6 +53,12 @@
     <Compile Include="Class\FuncitonHue.cs" />
     <Compile Include="Class\FunctionHuong.cs" />
     <Compile Include="Class\FunctionOanh.cs" />
+    <Compile Include="Forms\BaocaoLN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BaocaoLN.Designer.cs">
+      <DependentUpon>BaocaoLN.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Dangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -133,6 +139,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\BaocaoLN.resx">
+      <DependentUpon>BaocaoLN.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dangnhap.resx">
       <DependentUpon>Dangnhap.cs</DependentUpon>
     </EmbeddedResource>

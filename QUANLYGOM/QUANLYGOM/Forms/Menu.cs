@@ -106,5 +106,12 @@ namespace QUANLYGOM
             f.StartPosition = FormStartPosition.CenterScreen;
             f.Show();
         }
+
+        private void mnuBCDoanhthu_Click(object sender, EventArgs e)
+        {
+            Forms.BaocaoLN f = new Forms.BaocaoLN();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }

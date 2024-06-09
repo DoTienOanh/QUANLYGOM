@@ -99,3 +99,26 @@ C:\Users\Admin\Downloads\a\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csp
 C:\Users\Admin\Downloads\a\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Downloads\a\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
 C:\Users\Admin\Downloads\a\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe.config
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.pdb
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.AssemblyReference.cache
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.BaocaoLN.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formDangnhap.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuchanghoa.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.Danhmuckhachhang.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.DanhmucNCC.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formDanhmucnhanvien.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.DanhmucTBSX.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formHDnhapNVL.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formHoadonban.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.formHoadonchitraTBSX.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.formMenu.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemchitraTBSX.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDB.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.TimkiemHDN.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Properties.Resources.resources
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.GenerateResource.cache
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.CoreCompileInputs.cache
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
+D:\lập trình.net\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
