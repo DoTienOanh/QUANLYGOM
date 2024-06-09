@@ -75,35 +75,8 @@ namespace QUANLYGOM
         private void mnuHDN_Click(object sender, EventArgs e)
         {
             Forms.formHDnhapNVL f = new Forms.formHDnhapNVL();
-
-            //private void mnuTKHDB_Click(object sender, EventArgs e)
-            {
-              //  Forms.TimkiemHDB f = new Forms.TimkiemHDB();
-                f.StartPosition = FormStartPosition.CenterScreen;
-                f.Show();
-            }
-
-            //  private void mnuTKHDTBSX_Click(object sender, EventArgs e)
-            {
-               // Forms.TimkiemchitraTBSX f = new Forms.TimkiemchitraTBSX();
-
-                f.StartPosition = FormStartPosition.CenterScreen;
-                f.Show();
-            }
-
-            //  private void mnuHDB_Click(object sender, EventArgs e)
-            {
-          //      Forms.formHoadonban f = new Forms.formHoadonban();
-                f.StartPosition = FormStartPosition.CenterScreen;
-                f.Show();
-            }
-
-            //  private void mnuHDTBSX_Click(object sender, EventArgs e)
-            {
-            //    Forms.formHoadonchitraTBSX f = new Forms.formHoadonchitraTBSX();
-                f.StartPosition = FormStartPosition.CenterScreen;
-                f.Show();
-            }
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
         }
 
         private void mnuTKHDTBSX_Click(object sender, EventArgs e)
@@ -118,6 +91,20 @@ namespace QUANLYGOM
             Forms.TimkiemHDB a = new Forms.TimkiemHDB();
             a.StartPosition = FormStartPosition.CenterScreen;
             a.Show();
+        }
+
+        private void mnuHDB_Click(object sender, EventArgs e)
+        {
+            Forms.formHoadonban f = new Forms.formHoadonban();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
+
+        private void mnuHDTBSX_Click(object sender, EventArgs e)
+        {
+            Forms.formHoadonchitraTBSX f = new Forms.formHoadonchitraTBSX();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
         }
     }
 }
