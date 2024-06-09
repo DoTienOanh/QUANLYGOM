@@ -193,6 +193,7 @@
             this.buttonHuyHD.TabIndex = 234;
             this.buttonHuyHD.Text = "Hủy hóa đơn";
             this.buttonHuyHD.UseVisualStyleBackColor = true;
+            this.buttonHuyHD.Click += new System.EventHandler(this.buttonHuyHD_Click);
             // 
             // buttonLuu
             // 
