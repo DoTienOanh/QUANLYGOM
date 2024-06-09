@@ -48,13 +48,13 @@ namespace QUANLYGOM.Forms
                 return;
             }
             sql = @"
-        SELECT hd.mahdb, nv.tennhanvien, hd.ngayban, kh.tenkhachhang, 
-               ISNULL(SUM(ct.dongia * ct.soluong), 0) AS tongtien
-        FROM tblHDB hd
-        LEFT JOIN tblNhanVien nv ON hd.manhanvien = nv.manhanvien
-        LEFT JOIN tblKhachhang kh ON hd.makhachhang = kh.makhachhang
-        LEFT JOIN tblChitietHDB ct ON hd.mahdb = ct.mahdb
-        WHERE 1=1";
+                SELECT hd.mahdb, nv.tennhanvien, hd.ngayban, kh.tenkhachhang, 
+                ISNULL(SUM(ct.thanhtien), 0) AS tongtien
+                FROM tblHDB hd
+                LEFT JOIN tblNhanVien nv ON hd.manhanvien = nv.manhanvien
+                LEFT JOIN tblKhachhang kh ON hd.makhachhang = kh.makhachhang
+                LEFT JOIN tblChitietHDB ct ON hd.mahdb = ct.mahdb
+                WHERE 1=1";
 
             
             if (txtMahoadon.Text != "")
