@@ -133,7 +133,7 @@ namespace QUANLYGOM.Forms
                 comboMaNCC.Focus();
                 return;
             }
-            sql = "select MaTBSX from tblTBSX where MaTBSC=N'" + textMaTBSX.Text.Trim() + "'";
+            sql = "select MaTBSX from tblTBSX where MaTBSX=N'" + textMaTBSX.Text.Trim() + "'";
             if (FuncitonHue.checkey(sql))
             {
                 MessageBox.Show("Ma nhan vien nay da co, ban phai nhap ma khac", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);

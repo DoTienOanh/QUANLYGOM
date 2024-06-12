@@ -206,9 +206,7 @@ namespace QUANLYGOM.Forms
                 return;
             }
 
-
-
-            sql = "update tblNhanvien set Tennhavien=N'" + textTennhanvien.Text.Trim().ToString() + "',Diachi=N'" + textDiachi.Text.Trim().ToString() + "',Sodienthoai='" + maskSodienthoai.Text.ToString() + "',Machucvu=N'" + comboMachucvu.SelectedValue.ToString() + "',Stk=N'" + textSotaikhoan.Text.Trim().ToString() + "',Tennganhang=N'" + textTennganhang.Text.Trim().ToString() + "' where Manhanvien=N'" + textManhanvien.Text + "'";
+            sql = "update tblNhanvien set Tennhanvien=N'" + textTennhanvien.Text.Trim().ToString() + "',Diachi=N'" + textDiachi.Text.Trim().ToString() + "',Sodienthoai='" + maskSodienthoai.Text.ToString() + "',Machucvu=N'" + comboMachucvu.SelectedValue.ToString() + "',Stk=N'" + textSotaikhoan.Text.Trim().ToString() + "',Tennganhang=N'" + textTennganhang.Text.Trim().ToString() + "' where Manhanvien=N'" + textManhanvien.Text + "'";
             FuncitonHue.runsql(sql);
             load_dataGridView();
             resetValues();
